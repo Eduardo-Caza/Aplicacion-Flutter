@@ -1,16 +1,56 @@
-# pokeapi
+# Pokémon API App
 
-A new Flutter project.
+Esta es una aplicación Flutter que utiliza la [PokéAPI](https://pokeapi.co/) para buscar y mostrar información detallada sobre Pokémon. Los usuarios pueden buscar Pokémon por nombre y ver todas sus características, incluyendo su imagen.
+Tambien utiliza la API [Jikan](https://jikan.moe/) la cual nos trae informacion sobre animes y mangas dependiendo de lo que busquemos.
 
-## Getting Started
+## Características principales
+- Búsqueda de Pokémon por nombre.
+- Busqueda de Animes por nombre
+- Visualización de características completas del Pokémon:
+  - Habilidades.
+  - Movimientos.
+  - Estadísticas.
+  - Imagen oficial.
+- Visualización de características completas de Anime:
+  - Sipnosis.
+  - Capitulos.
+  - Estado.
+  - Imagen oficial.
+- Diseño minimalista dos colores azul y naranja.
+- Navegación entre secciones a través de botones.
 
-This project is a starting point for a Flutter application.
+## Tecnologías utilizadas
+- Flutter
+- Dart
+- HTTP para consumir APIs
 
-A few resources to get you started if this is your first Flutter project:
+## Instalación
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/Eduardo-Caza/Aplicacion-Flutter
+   ```
+   
+2. Instala las dependencias:
+   ```bash
+   flutter pub get
+   ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+3. Ejecuta la aplicación:
+   ```bash
+   flutter run
+   ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Uso
+1. Ingresa el nombre de un Pokémon en la Barra de búsqueda y presiona el botón.
+2. Ingresa el nombre de un Anime en la Barra de Busqueda y presiona el botón.
+3. Explora la información detallada del Pokémon o Anime en pantalla.
+4. Navega entre las pestañas para acceder a otras funcionalidades.
+
+## Autores
+- **Eduardo Caza**
+- **Luis Guaygua**
+- **Yuverly Verdezoto**
+
+## Capturas de Funcionamiento
+![Vista previa de la Api de Anime]![{0EE1D35A-1327-40B2-A212-4EE7C33F1B7A}](https://github.com/user-attachments/assets/37ab2c01-6c84-47eb-b008-eb6b943d6ceb)
+![Vista previa de la POKEAPI]![{7FB974D2-F2A0-46E0-B310-4520094F3E34}](https://github.com/user-attachments/assets/2179983c-92e3-45fd-b5de-37638f97e95d)
