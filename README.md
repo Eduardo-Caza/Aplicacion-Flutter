@@ -54,3 +54,15 @@ Tambien utiliza la API [Jikan](https://jikan.moe/) la cual nos trae informacion 
 ## Capturas de Funcionamiento
 ![Vista previa de la Api de Anime]![{0EE1D35A-1327-40B2-A212-4EE7C33F1B7A}](https://github.com/user-attachments/assets/37ab2c01-6c84-47eb-b008-eb6b943d6ceb)
 ![Vista previa de la POKEAPI]![{7FB974D2-F2A0-46E0-B310-4520094F3E34}](https://github.com/user-attachments/assets/2179983c-92e3-45fd-b5de-37638f97e95d)
+
+## Subir la aplicación a UpToDown
+Se debe crear una cuenta como desarrollador en UPTODOWN CONSOLE
+![image](https://github.com/user-attachments/assets/7735833e-3c04-49ad-b18d-cf97befe527f)
+Dar click en add new app o agregar nueva aplicacion
+![image](https://github.com/user-attachments/assets/50afcb0e-c09f-4016-b247-bc83a54917be)
+Subir la apk y esperar a que termine de cargar 
+![image](https://github.com/user-attachments/assets/8604a6ef-0932-49de-ab69-a81ba3014436)
+Por ultimo se espera la autorizacion de la pagina
+![image](https://github.com/user-attachments/assets/1ca623e5-bcc8-4d99-9af7-18e7a3f151f0)
+
+
